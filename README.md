@@ -1,7 +1,7 @@
 # ETH-WETH-SEPOLIA
 
 
-OPEN UR VS CODE !!!
+GODDD DEMMM WE ROCKING
 MAKE A FILE
 
 install ether with
