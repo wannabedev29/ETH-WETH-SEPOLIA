@@ -5,6 +5,8 @@ OPEN UR VS CODE !!!
 MAKE A FILE
 
 install ether with
+npm install
+npm install nodejs
 npm install ethers
 
 paste ur private key on script
